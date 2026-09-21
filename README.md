@@ -34,4 +34,4 @@ This dashboard combines employee survey data, HR records, and training costs so 
 ## 🚀 Getting Started
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
-2. Open `PowerBI_HR_Analysis.pbix`
+2. Open `PowerBI HR Analysis.pbix`
